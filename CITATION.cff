@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper listed under preferred-citation."
+title: "PAE-galaxy-SEDs: Data-driven Galaxy Population Prior for Photometric Redshifts"
+authors:
+  - family-names: Frediani
+    given-names: Nikolas
+  - family-names: Gruen
+    given-names: Daniel
+  - family-names: Tortorelli
+    given-names: Luca
+  - family-names: McCullough
+    given-names: Jamie
+license: MIT
+repository-code: "https://github.com/nfrediani/PAE-galaxy-SEDs"
+preferred-citation:
+  type: article
+  title: "Data-driven Galaxy Population Prior for Photometric Redshifts"
+  authors:
+    - family-names: Frediani
+      given-names: Nikolas
+    - family-names: Gruen
+      given-names: Daniel
+    - family-names: Tortorelli
+      given-names: Luca
+    - family-names: McCullough
+      given-names: Jamie
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2609.26594"
+      description: "arXiv preprint"
